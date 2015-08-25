@@ -1,0 +1,1 @@
+C:\Users\Vyara\Desktop\WebServices\Atanas_Solutions\Web-Services-and-Cloud-master\3. ASP.NET-Web-API-Architecture\SocialNetwork.Models\obj\Debug\SocialNetwork.Models.csprojResolveAssemblyReference.cache
